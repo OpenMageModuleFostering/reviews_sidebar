@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Reviews_Sidebar",
+    "name": "OpenMageModuleFostering\/Reviews_Sidebar",
     "type": "magento-module",
     "license": "commercial",
     "homepage": "",
     "description": "Reviews Sidebar extension by Amasty",
     "authors": [
-    {
-        "name": "Amasty Ltd.",
-        "email": "support@amasty.com"
-    }
-],
+        {
+            "name": "Amasty Ltd.",
+            "email": "support@amasty.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
